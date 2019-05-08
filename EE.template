@@ -47,7 +47,7 @@ Parameters:
   PEMFileName:
     Description: Enter the PEM file name
     Type: String
-    Default: sajith-cf-sample-pem
+    Default: YOUR-KEY-NAME
     ConstraintDescription: Must be a valid string.
 Resources:
   VPC:
