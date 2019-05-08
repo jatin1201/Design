@@ -153,7 +153,7 @@ Resources:
   BastianHostSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
-      GroupDescription: Security group for a bastian host. Only port 22 is allowd
+      GroupDescription: Security group for a bastian host. Only port 22 is allowed
       VpcId: !Ref VPC
       SecurityGroupIngress:
         - IpProtocol: tcp
