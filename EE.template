@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: 'This AWS CloudFormation stack '
+Description: 'This AWS CloudFormation stack: JATIN-AWS '
 Mappings:
   Constants:
     AMI:
