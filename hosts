@@ -1,0 +1,2 @@
+[nodes]
+ansible-test ansible_ssh_host=XXX.XXX.XX.XX ansible_ssh_port=32798
